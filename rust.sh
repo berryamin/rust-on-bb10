@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/accounts/1000/shared/documents/clitools/bin/bash
 
 # This is just a little script that can be downloaded from the internet to
 # install rustup. It just does platform detection, downloads the installer
